@@ -10,6 +10,7 @@ The migration focused on modernizing the application for scalability, maintainab
 • Infrastructure decoupling and modularization
 
 To demonstrate the architecture, decisions, and lessons learned, I also recorded a presentation walkthrough explaining the migration process and key cloud concepts.
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 Key Features
 • Dockerized Services  
@@ -43,6 +44,7 @@ The original TRAVLR app was built using the MEAN stack:
 • CSS + JavaScript for styling and interactivity
 
 This monolithic structure was then re‑engineered for AWS.
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 Cloud‑Native Architecture (After Migration)
 Core AWS Components
